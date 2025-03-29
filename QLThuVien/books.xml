@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="33">
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>1</title>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>nhung ke mong mo</author>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>nhatkhanh</year>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>2025</publisher>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>2024</pages>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>100</genre>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>440000</price>
+                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="12">
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>hhhh</title>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>khanhk</author>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>2908</year>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>2024</publisher>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>234</pages>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>44</genre>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>333333</price>
+                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                                                
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </book>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                                
+        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                                
+        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                                
+        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                                
+        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                                
+        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                                
+        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                                
+        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                            
+    
+    
+    
+    
+    
+    
+    </book>
+                            
+    
+    
+    
+    
+    
+    
+    <book id="1">
+                                                        
+        
+        
+        
+        
+        
+        <title>5</title>
+                                                        
+        
+        
+        
+        
+        
+        <author>2</author>
+                                                        
+        
+        
+        
+        
+        
+        <year>6</year>
+                                                        
+        
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                        
+        
+        
+        
+        
+        
+        <pages>7</pages>
+                                                        
+        
+        
+        
+        
+        
+        <genre>4</genre>
+                                                        
+        
+        
+        
+        
+        
+        <price>8</price>
+                                                    
+    
+    
+    
+    
+    
+    </book>
+                        
+    
+    
+    
+    
+    
+    <book id="1">
+                                                
+        
+        
+        
+        
+        <title>5</title>
+                                                
+        
+        
+        
+        
+        <author>2</author>
+                                                
+        
+        
+        
+        
+        <year>6</year>
+                                                
+        
+        
+        
+        
+        <publisher>3</publisher>
+                                                
+        
+        
+        
+        
+        <pages>7</pages>
+                                                
+        
+        
+        
+        
+        <genre>4</genre>
+                                                
+        
+        
+        
+        
+        <price>8</price>
+                                            
+    
+    
+    
+    
+    </book>
+                    
+    
+    
+    
+    
+    <book id="1">
+                                        
+        
+        
+        
+        <title>5uu</title>
+                                        
+        
+        
+        
+        <author>k</author>
+                                        
+        
+        
+        
+        <year>6345</year>
+                                        
+        
+        
+        
+        <publisher>3</publisher>
+                                        
+        
+        
+        
+        <pages>733</pages>
+                                        
+        
+        
+        
+        <genre>4</genre>
+                                        
+        
+        
+        
+        <price>85555</price>
+                                    
+    
+    
+    
+    </book>
+                
+    
+    
+    
+    <book id="1">
+                                
+        
+        
+        <title>5uu</title>
+                                
+        
+        
+        <author>k</author>
+                                
+        
+        
+        <year>6345</year>
+                                
+        
+        
+        <publisher>3</publisher>
+                                
+        
+        
+        <pages>733</pages>
+                                
+        
+        
+        <genre>4</genre>
+                                
+        
+        
+        <price>85555</price>
+                            
+    
+    
+    </book>
+            
+    
+    
+    <book id="1">
+                        
+        
+        <title>5uu</title>
+                        
+        
+        <author>k</author>
+                        
+        
+        <year>6345</year>
+                        
+        
+        <publisher>3</publisher>
+                        
+        
+        <pages>733</pages>
+                        
+        
+        <genre>4</genre>
+                        
+        
+        <price>85555</price>
+                    
+    
+    </book>
+        
+    
+    <book id="1">
+                
+        <title>5uu</title>
+                
+        <author>k</author>
+                
+        <year>6345</year>
+                
+        <publisher>3</publisher>
+                
+        <pages>733</pages>
+                
+        <genre>4</genre>
+                
+        <price>85555</price>
+            
+    </book>
+    
+    <book id="a">
+        <title/>
+        <author/>
+        <year/>
+        <publisher/>
+        <pages/>
+        <genre/>
+        <price/>
+    </book>
+</books>
